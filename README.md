@@ -1,5 +1,5 @@
-Young Kim
-Stanford CS
+Young Kim\n
+Stanford CS\n
 ykim04@stanford.edu
 
 <!---
