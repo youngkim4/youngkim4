@@ -1,6 +1,6 @@
 Young Kim  
 Stanford CS  
-ykim04@stanford.edu
+ykim04@stanford.edu  
 youngskim.com
 
 <!---
